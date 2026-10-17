@@ -8,6 +8,7 @@
 
   const checkout = (config.CHECKOUT_URL || "").trim();
   const warning = document.getElementById("setup-warning");
+  if (warning && checkout && checkout.startsWith("https://")) warning.hidden = true;
   document.querySelectorAll(".buy-link").forEach(link => {
     if (checkout && /^https:\/\//i.test(checkout)) {
       link.href = checkout;
