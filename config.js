@@ -4,8 +4,8 @@
   Remplace VOTRE MARQUE par le nom définitif de ta marque.
 */
 window.STORE_CONFIG = {
-  BRAND_NAME: "VOTRE MARQUE",
-  PRODUCT_NAME: "Studio IA Zéro Visage",
+  BRAND_NAME: "Digit_Afric",
+  PRODUCT_NAME: "Maîtrisez l’IA Fruitée",
   PRICE_FCFA: 955,
   CHECKOUT_URL: "https://nhyxfxvz.mychariow.co/prd_uu2mcqqq"
 };
