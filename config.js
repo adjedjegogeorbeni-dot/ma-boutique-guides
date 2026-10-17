@@ -1,7 +1,7 @@
 /*
   CONFIGURATION DU SITE
   Le bouton d'achat renvoie vers ta page produit Chariow.
-  Remplace VOTRE MARQUE par le nom définitif de ta marque.
+  La marque affichée sur le site est Digit_Afric.
 */
 window.STORE_CONFIG = {
   BRAND_NAME: "Digit_Afric",
